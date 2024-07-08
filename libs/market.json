@@ -1,24 +1,6 @@
 //{"key": "商店","name": "🎰┃蜂蜜┃商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://fm.t4tv.hz.cz/json/market.json","jar": "./libs/jar/app.jar"},
 [
   {
-    "name": "推薦",
-    "list": [
-      {
-        "name": "影视仓_5.0.29_r",
-        "url": "http://cq10.dpfrp.top:5433/f/dgyfG/ESTV%20APK.apk",
-        "icon": "http://liucn.cc/box/img/dc01.jpg",
-        "version": "通用版"
-      },
-      {
-        "name": "Player_5.0.29",
-        "url": "http://cq10.dpfrp.top:5433/f/dgyfG/ESTV%20APK.apk",
-        "icon": "http://liucn.cc/box/img/duo.png",
-        "version": "内置版"
-      }
-    ]
-  },
-
-  {
     "name": "4.x版",
     "list": [
       {
